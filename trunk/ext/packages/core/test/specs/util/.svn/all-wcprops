@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util
+END
+TextMetrics.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/TextMetrics.js
+END
+TSV.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/TSV.js
+END
+Sorter.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Sorter.js
+END
+Scheduler.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Scheduler.js
+END
+LocalStorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/LocalStorage.js
+END
+HashMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/HashMap.js
+END
+MixedCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/MixedCollection.js
+END
+Region.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Region.js
+END
+Base64.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Base64.js
+END
+Version.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Version.js
+END
+Filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Filter.js
+END
+Inflector.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Inflector.js
+END
+LruCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/LruCache.js
+END
+Format.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Format.js
+END
+Positionable.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Positionable.js
+END
+Bag.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Bag.js
+END
+DelayedTask.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/DelayedTask.js
+END
+Collection.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Collection.js
+END
+CSV.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/CSV.js
+END
+TaskRunner.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/TaskRunner.js
+END
+ObjectTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/ObjectTemplate.js
+END
+Cache.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/util/Cache.js
+END

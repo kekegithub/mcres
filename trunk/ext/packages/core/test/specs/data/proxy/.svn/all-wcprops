@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy
+END
+Server.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy/Server.js
+END
+Memory.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy/Memory.js
+END
+SessionStorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy/SessionStorage.js
+END
+JsonP.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy/JsonP.js
+END
+Direct.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy/Direct.js
+END
+Rest.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy/Rest.js
+END
+Client.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy/Client.js
+END
+LocalStorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy/LocalStorage.js
+END
+Proxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy/Proxy.js
+END
+WebStorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy/WebStorage.js
+END
+Ajax.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/proxy/Ajax.js
+END

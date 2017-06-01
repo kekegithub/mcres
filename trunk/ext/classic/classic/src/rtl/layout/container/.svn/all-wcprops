@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/rtl/layout/container
+END
+Box.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/rtl/layout/container/Box.js
+END
+Border.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/rtl/layout/container/Border.js
+END
+Column.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/rtl/layout/container/Column.js
+END
+Absolute.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/rtl/layout/container/Absolute.js
+END
+VBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/rtl/layout/container/VBox.js
+END
+HBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/rtl/layout/container/HBox.js
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom
+END
+Query.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom/Query.js
+END
+Element_scroll.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom/Element_scroll.js
+END
+Element.style.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom/Element.style.js
+END
+Element.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom/Element.js
+END
+CompositeElementLite.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom/CompositeElementLite.js
+END
+Element.traversal.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom/Element.traversal.js
+END
+Element.anim.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom/Element.anim.js
+END
+DomHelper.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom/DomHelper.js
+END
+Element.static.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom/Element.static.js
+END
+GarbageCollector.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom/GarbageCollector.js
+END
+Element.insertion.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/dom/Element.insertion.js
+END

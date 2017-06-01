@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src
+END
+Progress.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/Progress.js
+END
+TaskQueue.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/TaskQueue.js
+END
+JSON.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/JSON.js
+END
+Template.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/Template.js
+END
+Util.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/Util.js
+END
+Promise.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/Promise.js
+END
+Deferred.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/Deferred.js
+END
+Widget.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/Widget.js
+END
+Glyph.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/Glyph.js
+END
+Ajax.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/Ajax.js
+END
+AnimationQueue.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/AnimationQueue.js
+END
+GlobalEvents.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/GlobalEvents.js
+END
+ComponentQuery.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/ComponentQuery.js
+END
+Evented.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/Evented.js
+END
+ComponentManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/ComponentManager.js
+END
+AbstractManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/AbstractManager.js
+END
+ProgressBase.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/ProgressBase.js
+END
+Ext.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/Ext.js
+END
+XTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/XTemplate.js
+END

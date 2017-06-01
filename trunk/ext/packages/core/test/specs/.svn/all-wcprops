@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs
+END
+GlobalEvents.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/GlobalEvents.js
+END
+ComponentQuery.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/ComponentQuery.js
+END
+JSON.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/JSON.js
+END
+Evented.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/Evented.js
+END
+Template.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/Template.js
+END
+Util.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/Util.js
+END
+AbstractManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/AbstractManager.js
+END
+Ext.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/Ext.js
+END
+Widget.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/Widget.js
+END
+XTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/XTemplate.js
+END
+Boot.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/Boot.js
+END

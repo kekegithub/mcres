@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/drag
+END
+Constraint.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/drag/Constraint.js
+END
+Target.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/drag/Target.js
+END
+Manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/drag/Manager.js
+END
+Info.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/drag/Info.js
+END
+Item.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/drag/Item.js
+END
+Source.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/drag/Source.js
+END

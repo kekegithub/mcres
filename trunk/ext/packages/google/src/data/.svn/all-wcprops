@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/google/src/data
+END
+AbstractProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/google/src/data/AbstractProxy.js
+END
+EventsProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/google/src/data/EventsProxy.js
+END
+CalendarsProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/google/src/data/CalendarsProxy.js
+END

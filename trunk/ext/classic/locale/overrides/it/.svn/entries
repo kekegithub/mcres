@@ -1,0 +1,129 @@
+10
+
+dir
+408
+http://hddenv02/svn/mcre/ts/web/trunk/ext/classic/locale/overrides/it
+http://hddenv02/svn/mcre
+
+
+
+2017-02-17T02:27:48.377144Z
+169
+zhuxiaofeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1e8c6e45-40ac-e44a-8ba3-c28cefe831e1
+
+panel
+dir
+
+tree
+dir
+
+toolbar
+dir
+
+ext-locale-it.js
+file
+
+
+
+
+2017-06-01T05:40:41.150759Z
+30d72500d18bea3a405ad030d16e383a
+2017-02-17T02:27:48.377144Z
+169
+zhuxiaofeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1530
+
+form
+dir
+
+menu
+dir
+
+grid
+dir
+
+tab
+dir
+
+LoadMask.js
+file
+
+
+
+
+2017-06-01T05:40:41.154759Z
+522c97df0a240c4d1ac2d8d6fd3cb34f
+2017-02-17T02:27:48.377144Z
+169
+zhuxiaofeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+101
+
+window
+dir
+
+data
+dir
+
+view
+dir
+
+picker
+dir
+

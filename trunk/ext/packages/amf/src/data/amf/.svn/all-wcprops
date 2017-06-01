@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/amf/src/data/amf
+END
+XmlDecoder.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/amf/src/data/amf/XmlDecoder.js
+END
+Packet.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/amf/src/data/amf/Packet.js
+END
+RemotingMessage.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/amf/src/data/amf/RemotingMessage.js
+END
+Encoder.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/amf/src/data/amf/Encoder.js
+END
+XmlEncoder.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/amf/src/data/amf/XmlEncoder.js
+END
+Proxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/amf/src/data/amf/Proxy.js
+END
+Reader.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/amf/src/data/amf/Reader.js
+END

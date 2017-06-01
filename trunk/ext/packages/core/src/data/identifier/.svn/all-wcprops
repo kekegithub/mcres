@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/identifier
+END
+Generator.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/identifier/Generator.js
+END
+Uuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/identifier/Uuid.js
+END
+Sequential.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/identifier/Sequential.js
+END
+Negative.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/identifier/Negative.js
+END

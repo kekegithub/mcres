@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/field
+END
+String.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/field/String.js
+END
+Number.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/field/Number.js
+END
+Date.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/field/Date.js
+END
+Integer.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/field/Integer.js
+END
+Boolean.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/field/Boolean.js
+END
+Field.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/data/field/Field.js
+END

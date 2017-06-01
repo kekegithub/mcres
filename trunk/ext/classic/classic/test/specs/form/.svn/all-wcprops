@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/specs/form
+END
+FieldContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/specs/form/FieldContainer.js
+END
+RadioGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/specs/form/RadioGroup.js
+END
+FieldSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/specs/form/FieldSet.js
+END
+Label.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/specs/form/Label.js
+END
+Panel.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/specs/form/Panel.js
+END
+Basic.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/specs/form/Basic.js
+END
+CheckboxGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/specs/form/CheckboxGroup.js
+END
+Labelable.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/specs/form/Labelable.js
+END

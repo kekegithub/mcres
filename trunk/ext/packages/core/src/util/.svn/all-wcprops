@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util
+END
+GroupCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/GroupCollection.js
+END
+Sortable.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Sortable.js
+END
+TSV.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/TSV.js
+END
+Translatable.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Translatable.js
+END
+Scheduler.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Scheduler.js
+END
+LocalStorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/LocalStorage.js
+END
+Event.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Event.js
+END
+MixedCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/MixedCollection.js
+END
+SizeMonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/SizeMonitor.js
+END
+Observable.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Observable.js
+END
+Filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Filter.js
+END
+Version.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Version.js
+END
+Offset.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Offset.js
+END
+Fly.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Fly.js
+END
+SorterCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/SorterCollection.js
+END
+CSV.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/CSV.js
+END
+Group.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Group.js
+END
+XTemplateCompiler.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/XTemplateCompiler.js
+END
+History.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/History.js
+END
+ObjectTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/ObjectTemplate.js
+END
+CollectionKey.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/CollectionKey.js
+END
+AbstractMixedCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/AbstractMixedCollection.js
+END
+ItemCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/ItemCollection.js
+END
+TextMetrics.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/TextMetrics.js
+END
+Schedulable.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Schedulable.js
+END
+Sorter.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Sorter.js
+END
+Color.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Color.js
+END
+Operators.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Operators.js
+END
+XTemplateParser.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/XTemplateParser.js
+END
+HashMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/HashMap.js
+END
+Grouper.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Grouper.js
+END
+PaintMonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/PaintMonitor.js
+END
+Region.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Region.js
+END
+Base64.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Base64.js
+END
+Inflector.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Inflector.js
+END
+LruCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/LruCache.js
+END
+CSS.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/CSS.js
+END
+Format.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Format.js
+END
+Positionable.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Positionable.js
+END
+Point.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Point.js
+END
+Bag.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Bag.js
+END
+DelayedTask.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/DelayedTask.js
+END
+Collection.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Collection.js
+END
+TaskRunner.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/TaskRunner.js
+END
+DelimitedValue.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/DelimitedValue.js
+END
+TaskManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/TaskManager.js
+END
+FilterCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/FilterCollection.js
+END
+Cache.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/src/util/Cache.js
+END

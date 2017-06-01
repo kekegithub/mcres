@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data
+END
+Types.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/Types.js
+END
+ErrorCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/ErrorCollection.js
+END
+NodeInterface.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/NodeInterface.js
+END
+ChainedStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/ChainedStore.js
+END
+TreeStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/TreeStore.js
+END
+Batch.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/Batch.js
+END
+Session.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/Session.js
+END
+Request.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/Request.js
+END
+ResultSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/ResultSet.js
+END
+Store.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/Store.js
+END
+BufferedStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/BufferedStore.js
+END
+Connection.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/Connection.js
+END
+Tree.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/Tree.js
+END
+Model.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/Model.js
+END
+NodeStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/NodeStore.js
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util
+END
+Draggable.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/Draggable.js
+END
+Droppable.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/Droppable.js
+END
+TranslatableList.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/TranslatableList.js
+END
+TranslatableGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/TranslatableGroup.js
+END
+LineSegment.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/LineSegment.js
+END
+TapRepeater.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/TapRepeater.js
+END
+BufferedCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/BufferedCollection.js
+END
+Wrapper.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/Wrapper.js
+END
+Audio.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/Audio.js
+END
+InputBlocker.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/InputBlocker.js
+END
+PositionMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/PositionMap.js
+END
+Geolocation.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/modern/modern/src/util/Geolocation.js
+END

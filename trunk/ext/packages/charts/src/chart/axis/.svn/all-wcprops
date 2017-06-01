@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/axis
+END
+Axis.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/axis/Axis.js
+END
+Category3D.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/axis/Category3D.js
+END
+Time3D.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/axis/Time3D.js
+END
+Numeric3D.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/axis/Numeric3D.js
+END
+Axis3D.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/axis/Axis3D.js
+END
+Category.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/axis/Category.js
+END
+Time.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/axis/Time.js
+END
+Numeric.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/axis/Numeric.js
+END

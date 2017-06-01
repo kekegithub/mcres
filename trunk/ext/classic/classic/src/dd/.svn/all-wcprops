@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd
+END
+StatusProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/StatusProxy.js
+END
+DD.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/DD.js
+END
+Registry.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/Registry.js
+END
+DDProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/DDProxy.js
+END
+DragTracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/DragTracker.js
+END
+DragZone.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/DragZone.js
+END
+ScrollManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/ScrollManager.js
+END
+DropTarget.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/DropTarget.js
+END
+DragDropManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/DragDropManager.js
+END
+DDTarget.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/DDTarget.js
+END
+DragSource.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/DragSource.js
+END
+DropZone.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/DropZone.js
+END
+DragDrop.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/dd/DragDrop.js
+END

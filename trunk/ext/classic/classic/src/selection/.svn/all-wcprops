@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/selection
+END
+DataViewModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/selection/DataViewModel.js
+END
+CheckboxModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/selection/CheckboxModel.js
+END
+RowModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/selection/RowModel.js
+END
+CellModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/selection/CellModel.js
+END
+Model.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/selection/Model.js
+END
+TreeModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/selection/TreeModel.js
+END

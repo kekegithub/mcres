@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/grid/filters/filter
+END
+TriFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/grid/filters/filter/TriFilter.js
+END
+String.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/grid/filters/filter/String.js
+END
+SingleFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/grid/filters/filter/SingleFilter.js
+END
+Number.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/grid/filters/filter/Number.js
+END
+Base.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/grid/filters/filter/Base.js
+END
+List.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/grid/filters/filter/List.js
+END
+Date.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/grid/filters/filter/Date.js
+END
+Boolean.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/grid/filters/filter/Boolean.js
+END

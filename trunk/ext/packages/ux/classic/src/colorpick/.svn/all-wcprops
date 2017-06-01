@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick
+END
+Button.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/Button.js
+END
+ColorMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/ColorMap.js
+END
+SliderValue.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/SliderValue.js
+END
+ButtonController.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/ButtonController.js
+END
+ColorMapController.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/ColorMapController.js
+END
+ColorPreview.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/ColorPreview.js
+END
+Selector.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/Selector.js
+END
+Slider.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/Slider.js
+END
+Field.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/Field.js
+END
+SelectorController.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/SelectorController.js
+END
+SliderHue.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/SliderHue.js
+END
+Selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/Selection.js
+END
+SliderController.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/SliderController.js
+END
+SliderAlpha.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/SliderAlpha.js
+END
+SliderSaturation.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/SliderSaturation.js
+END
+ColorUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/ColorUtils.js
+END
+SelectorModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/ux/classic/src/colorpick/SelectorModel.js
+END

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app
+END
+native.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/native.properties
+END
+package.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/package.properties
+END
+native.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/native.defaults.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/build.properties
+END
+ext.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/ext.properties
+END
+build-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/build-impl.xml
+END
+slice-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/slice-impl.xml
+END
+cordova.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/cordova.defaults.properties
+END
+phonegap-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/phonegap-impl.xml
+END
+init-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/init-impl.xml
+END
+defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/defaults.properties
+END
+watch-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/watch-impl.xml
+END
+sass-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/sass-impl.xml
+END
+js-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/js-impl.xml
+END
+codegen.json
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/codegen.json
+END
+development.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/development.properties
+END
+resolve-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/resolve-impl.xml
+END
+testing.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/testing.defaults.properties
+END
+find-cmd-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/find-cmd-impl.xml
+END
+production.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/production.properties
+END
+development.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/development.defaults.properties
+END
+production.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/production.defaults.properties
+END
+cordova-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/cordova-impl.xml
+END
+package.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/package.defaults.properties
+END
+refresh-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/refresh-impl.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/plugin.xml
+END
+app.defaults.json
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/app.defaults.json
+END
+sencha.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/sencha.cfg
+END
+phonegap.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/phonegap.defaults.properties
+END
+testing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/testing.properties
+END
+resources-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/resources-impl.xml
+END
+page-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/page-impl.xml
+END
+packager-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/packager-impl.xml
+END
+Microloader.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/Microloader.js
+END
+bootstrap-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/bootstrap-impl.xml
+END
+Boot.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mcre/!svn/ver/169/ts/web/trunk/.sencha/app/Boot.js
+END

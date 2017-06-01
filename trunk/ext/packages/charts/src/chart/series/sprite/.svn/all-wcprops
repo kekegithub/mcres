@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite
+END
+Bar.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Bar.js
+END
+Scatter.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Scatter.js
+END
+StackedCartesian.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/StackedCartesian.js
+END
+Area.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Area.js
+END
+Cartesian.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Cartesian.js
+END
+Polar.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Polar.js
+END
+CandleStick.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/CandleStick.js
+END
+Aggregative.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Aggregative.js
+END
+Line.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Line.js
+END
+Box.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Box.js
+END
+Radar.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Radar.js
+END
+Series.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Series.js
+END
+Pie3DPart.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Pie3DPart.js
+END
+Bar3D.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/Bar3D.js
+END
+PieSlice.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/series/sprite/PieSlice.js
+END

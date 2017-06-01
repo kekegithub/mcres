@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcre/!svn/ver/288/ts/web/trunk/modern/resources/images/message
+END
+delete.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/288/ts/web/trunk/modern/resources/images/message/delete.png
+END
+checked.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/283/ts/web/trunk/modern/resources/images/message/checked.png
+END
+nocheck.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/283/ts/web/trunk/modern/resources/images/message/nocheck.png
+END

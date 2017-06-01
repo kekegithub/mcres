@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/fx
+END
+Anim.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/fx/Anim.js
+END
+Queue.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/fx/Queue.js
+END
+CubicBezier.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/fx/CubicBezier.js
+END
+Easing.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/fx/Easing.js
+END
+Animator.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/fx/Animator.js
+END
+DrawPath.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/fx/DrawPath.js
+END
+Manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/fx/Manager.js
+END
+PropertyHandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/src/fx/PropertyHandler.js
+END

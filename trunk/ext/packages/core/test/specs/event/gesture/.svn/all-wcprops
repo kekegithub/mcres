@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/event/gesture
+END
+Tap.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/event/gesture/Tap.js
+END
+Swipe.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/event/gesture/Swipe.js
+END
+LongPress.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/event/gesture/LongPress.js
+END
+Drag.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/event/gesture/Drag.js
+END
+DoubleTap.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/event/gesture/DoubleTap.js
+END
+Pinch.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/event/gesture/Pinch.js
+END

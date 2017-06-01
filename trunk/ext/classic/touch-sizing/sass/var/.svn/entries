@@ -1,0 +1,175 @@
+10
+
+dir
+408
+http://hddenv02/svn/mcre/ts/web/trunk/ext/classic/touch-sizing/sass/var
+http://hddenv02/svn/mcre
+
+
+
+2017-02-17T02:27:48.377144Z
+169
+zhuxiaofeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1e8c6e45-40ac-e44a-8ba3-c28cefe831e1
+
+slider
+dir
+
+resizer
+dir
+
+grid
+dir
+
+tip
+dir
+
+Readme.md
+file
+
+
+
+
+2017-06-01T05:41:31.031612Z
+3d5abb702bf2c961022c6bae19694993
+2017-02-17T02:27:48.377144Z
+169
+zhuxiaofeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+105
+
+panel
+dir
+
+tree
+dir
+
+toolbar
+dir
+
+form
+dir
+
+ProgressBar.scss
+file
+
+
+
+
+2017-06-01T05:41:31.035612Z
+828f91ec9a9f9ee1d8cc34962c9bcc01
+2017-02-17T02:27:48.377144Z
+169
+zhuxiaofeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33
+
+menu
+dir
+
+tab
+dir
+
+window
+dir
+
+view
+dir
+
+button
+dir
+
+Component.scss
+file
+
+
+
+
+2017-06-01T05:41:31.039612Z
+a7ad8d7919ca39730140eeed0cc338e6
+2017-02-17T02:27:48.377144Z
+169
+zhuxiaofeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56
+
+layout
+dir
+
+picker
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/operation
+END
+Destroy.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/operation/Destroy.js
+END
+Read.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/operation/Read.js
+END
+Operation.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/operation/Operation.js
+END
+Update.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/operation/Update.js
+END
+Create.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/core/test/specs/data/operation/Create.js
+END

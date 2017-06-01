@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/local/resources/images
+END
+foo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/local/resources/images/foo.gif
+END
+bar.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/local/resources/images/bar.gif
+END

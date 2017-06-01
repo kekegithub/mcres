@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test
+END
+capabilities-pr.json
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/capabilities-pr.json
+END
+capabilities.json
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/capabilities.json
+END
+coverageTest.json
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/coverageTest.json
+END
+bootstrap.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/bootstrap.css
+END
+test.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/test.json
+END
+orion.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/classic/test/orion.html
+END

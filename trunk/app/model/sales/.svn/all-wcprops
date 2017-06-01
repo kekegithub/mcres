@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mcre/!svn/ver/369/ts/web/trunk/app/model/sales
+END
+Sales.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mcre/!svn/ver/249/ts/web/trunk/app/model/sales/Sales.js
+END
+SalesModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcre/!svn/ver/346/ts/web/trunk/app/model/sales/SalesModel.js
+END
+PayRecordModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcre/!svn/ver/369/ts/web/trunk/app/model/sales/PayRecordModel.js
+END
+ProductModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcre/!svn/ver/348/ts/web/trunk/app/model/sales/ProductModel.js
+END

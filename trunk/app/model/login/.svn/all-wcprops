@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mcre/!svn/ver/366/ts/web/trunk/app/model/login
+END
+Tenant.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mcre/!svn/ver/249/ts/web/trunk/app/model/login/Tenant.js
+END
+UserLocal.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mcre/!svn/ver/249/ts/web/trunk/app/model/login/UserLocal.js
+END
+Store.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mcre/!svn/ver/249/ts/web/trunk/app/model/login/Store.js
+END
+Contract.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mcre/!svn/ver/249/ts/web/trunk/app/model/login/Contract.js
+END
+User.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mcre/!svn/ver/249/ts/web/trunk/app/model/login/User.js
+END
+Employee.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mcre/!svn/ver/366/ts/web/trunk/app/model/login/Employee.js
+END

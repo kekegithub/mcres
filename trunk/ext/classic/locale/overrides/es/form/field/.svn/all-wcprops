@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/locale/overrides/es/form/field
+END
+Text.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/locale/overrides/es/form/field/Text.js
+END
+ComboBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/locale/overrides/es/form/field/ComboBox.js
+END
+Number.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/locale/overrides/es/form/field/Number.js
+END
+Base.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/locale/overrides/es/form/field/Base.js
+END
+VTypes.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/locale/overrides/es/form/field/VTypes.js
+END
+HtmlEditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/locale/overrides/es/form/field/HtmlEditor.js
+END
+Date.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/locale/overrides/es/form/field/Date.js
+END
+Time.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/locale/overrides/es/form/field/Time.js
+END
+File.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/locale/overrides/es/form/field/File.js
+END

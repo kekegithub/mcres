@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mcre/!svn/ver/354/ts/web/trunk/app/store/complaint
+END
+ComplaintTypeStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcre/!svn/ver/354/ts/web/trunk/app/store/complaint/ComplaintTypeStore.js
+END
+ComplaintSearchStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/342/ts/web/trunk/app/store/complaint/ComplaintSearchStore.js
+END
+ComplaintStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcre/!svn/ver/349/ts/web/trunk/app/store/complaint/ComplaintStore.js
+END

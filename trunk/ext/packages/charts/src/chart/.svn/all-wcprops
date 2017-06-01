@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart
+END
+Markers.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/Markers.js
+END
+AbstractChart.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/AbstractChart.js
+END
+CartesianChart.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/CartesianChart.js
+END
+MarkerHolder.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/MarkerHolder.js
+END
+PolarChart.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/PolarChart.js
+END
+SpaceFillingChart.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/packages/charts/src/chart/SpaceFillingChart.js
+END

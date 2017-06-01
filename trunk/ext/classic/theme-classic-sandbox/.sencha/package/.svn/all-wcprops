@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package
+END
+find-cmd-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/find-cmd-impl.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/build.properties
+END
+refresh-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/refresh-impl.xml
+END
+build-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/build-impl.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/plugin.xml
+END
+slice-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/slice-impl.xml
+END
+sencha.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/sencha.cfg
+END
+init-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/init-impl.xml
+END
+defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/defaults.properties
+END
+sass-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/sass-impl.xml
+END
+testing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/testing.properties
+END
+sub-builds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/sub-builds.xml
+END
+resources-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/resources-impl.xml
+END
+js-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/js-impl.xml
+END
+Microloader.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/Microloader.js
+END
+bootstrap-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/bootstrap-impl.xml
+END
+codegen.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/codegen.json
+END
+Boot.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-classic-sandbox/.sencha/package/Boot.js
+END

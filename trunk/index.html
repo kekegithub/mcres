@@ -1,0 +1,177 @@
+<!DOCTYPE HTML>
+<html manifest="">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes">
+    <title>hdts</title>
+
+
+    <script type="text/javascript">
+        MsgTip = function () {
+            function createBox(s, type) {
+                var cls = 'msg-error';
+                if (type == "load") {
+                    cls = 'msg-load';
+                }
+                return ['<div class="msg">',
+                    '<div class= "msg-mask"></div>',
+                    '<div class= "' + cls + '"><div class="msg-img"></div></div>',
+                    '<div class="msg-body">',
+                    s,
+                    '</div>',
+                    '</div>'].join('');
+            }
+
+            return {
+                msg: function (message, type) {  //type: 类型: error, load
+                    var div = document.createElement('div');
+                    div.id = 'msg-div22';
+                    document.body.appendChild(div);
+                    document.getElementById("msg-div22").innerHTML = createBox(message, type);
+                    if (type != "load") {
+                        setTimeout(function () {
+                            var el = document.getElementById('msg-div22');
+                            el.parentNode.removeChild(el);
+                        }, 2000);
+                    }
+                },
+                remove: function () {
+                    var el = document.getElementById('msg-div22');
+                    if (typeof(el) != "undefined") {
+                        el.parentNode.removeChild(el);
+                    }
+                }
+//						confirm:function (message, type) {
+//							var div = document.createElement('div');
+//							div.id = 'msg-div23';
+//							document.body.appendChild(div);
+//							document.getElementById("msg-div23").innerHTML = createBox(message, type);
+//
+//						}
+            };
+        }();
+
+
+        /*MsgConfirem = function () {
+            function createBoxs(s, type) {
+                /!*var cls = 'msg-error';
+                if (type == "load") {
+                    cls = 'msg-load';
+                }*!/
+                return [
+                    /!*'<div class="msg">',
+                     '<div class= "' + cls + '"><div class="msg-img"></div></div>',
+                     '<div class="msg-body">',
+                     s,
+                     '</div>',
+                     '</div>'*!/
+                    '<div class="clickall"></div>',
+                    '<div class="alertinfo" style="display:flex;flex-direction:column;align-items:left;">',
+                    '<div style="margin: 2% 0 0 5%;font-size: 1.8rem;font-weight: bold;color: #2c3135;" >发现新版本</div>',
+                    '<div style="width:2.7rem;margin: 1.6% 0 1.5% 5%;border-top:3px solid #64b3f1; "></div>',
+                    '<div style="font-size: 1.5rem;color: #696e72;margin-left: 5%" >更新内容：</div>',
+                    '<div class="alertinfo_p" >1.新增投诉建议功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能</div>',
+                    '</div>',
+                   /!* '<div >',
+                    '<p class="alertinfo_p">1.新增投诉建议功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能<br/>2.新增工程报修功能</p>',
+                    '<hr style="height: 1px; border: none; border-top: 4px ridge;" />',
+                    '<p class="alertinfo_pa">',
+                    '<a class="alertinfo_p_a" id="startuppage_alertinfo_btnback"></a>',
+                    '</p>',
+                    '</div>'*!/
+                ].join('');
+            }
+
+            return {
+                msg: function (message, type) {  //type: 类型: error, load
+                    var div = document.createElement('div');
+                    div.id = 'msgConfirem-div20';
+                    document.body.appendChild(div);
+                    document.getElementById("msgConfirem-div20").innerHTML = createBoxs(message, type);
+                    if (type != "load") {
+                        setTimeout(function () {
+                            var el = document.getElementById('msgConfirem-div20');
+                            el.parentNode.removeChild(el);
+                        }, 2000);
+                    }
+                },
+                remove: function () {
+                    var el = document.getElementById('msg-div22');
+                    if (typeof(el) != "undefined") {
+                        el.parentNode.removeChild(el);
+                    }
+                }
+//						confirm:function (message, type) {
+//							var div = document.createElement('div');
+//							div.id = 'msg-div23';
+//							document.body.appendChild(div);
+//							document.getElementById("msg-div23").innerHTML = createBox(message, type);
+//
+//						}
+            };
+        }();*/
+        /*function myFun(result){
+         var cityName = result.name;
+         alert(cityName);
+         }
+
+         var myCity = new BMap.LocalCity();
+         myCity.get(myFun);*/
+
+        var Ext = Ext || {}; // Ext namespace won't be defined yet...
+
+        // This function is called by the Microloader after it has performed basic
+        // device detection. The results are provided in the "tags" object. You can
+        // use these tags here or even add custom tags. These can be used by platform
+        // filters in your manifest or by platformConfig expressions in your app.
+        //
+        Ext.beforeLoad = function (tags) {
+            var s = location.search,  // the query string (ex "?foo=1&bar")
+                    profile;
+
+            // For testing look for "?classic" or "?modern" in the URL to override
+            // device detection default.
+            //
+            /*if (s.match(/\bclassic\b/)) {
+             profile = 'classic';
+             document.write("<link rel=\"stylesheet\" href=\"build/development/hdts/classic/resources/hdts-custom.css\" type=\"text/css\" ");
+             }
+             else if (s.match(/\bmodern\b/)) {
+             profile = 'modern';
+             document.write("<link rel=\"stylesheet\" href=\"build/development/hdts/modern/resources/hdts-custom.css\" type=\"text/css\" ");
+             }
+             else {
+             profile = tags.desktop ? 'classic' : '
+             ';
+             if(tags.desktop){
+             profile = 'classic';
+             document.write("<link rel=\"stylesheet\" href=\"build/development/hdts/classic/resources/hdts-custom.css\" type=\"text/css\" ");
+             } else {
+             profile = 'modern';
+             document.write("<link rel=\"stylesheet\" href=\"build/development/hdts/modern/resources/hdts-custom.css\" type=\"text/css\" ");
+             }
+             }*/
+            profile = 'modern';
+
+            //document.write("<link rel=\"stylesheet\" href=\"build/production/hdts/modern/resources/hdts-custom.css\" type=\"text/css\" ");
+            document.write("<link rel=\"stylesheet\" href=\"build/development/hdts/modern/resources/hdts-custom.css\" type=\"text/css\" ");
+
+            Ext.manifest = profile; // this name must match a build profile name
+
+            // This function is called once the manifest is available but before
+            // any data is pulled from it.
+            //
+            //return function (manifest) {
+            // peek at / modify the manifest object
+            //};
+        };
+    </script>
+
+
+    <!-- The line below must be kept intact for Sencha Cmd to build your application -->
+    <script id="microloader" data-app="64917806-48ee-4965-aa15-c00d66084044" type="text/javascript"
+            src="bootstrap.js"></script>
+</head>
+<body></body>
+</html>

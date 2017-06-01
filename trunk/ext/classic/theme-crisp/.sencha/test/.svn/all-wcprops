@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-crisp/.sencha/test
+END
+jasmine-adapter.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-crisp/.sencha/test/jasmine-adapter.js
+END
+jasmine.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-crisp/.sencha/test/jasmine.js
+END
+Ext.cmd.api.adapter.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-crisp/.sencha/test/Ext.cmd.api.adapter.js
+END
+codegen.json
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-crisp/.sencha/test/codegen.json
+END
+test-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcre/!svn/ver/169/ts/web/trunk/ext/classic/theme-crisp/.sencha/test/test-impl.xml
+END
